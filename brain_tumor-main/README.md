@@ -1,7 +1,4 @@
 # Brain Tumor Detection using CT–MRI Image Fusion (Deep Learning)
-
-> RRIT, Batch 34, Dept. of CSE — Deep Learning pipeline for brain tumor detection via CT+MRI fusion.
-
 ---
 
 ## What This Project Does
